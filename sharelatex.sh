@@ -1,4 +1,5 @@
 #!/bin/bash
+
 export PATH=$PATH:/opt/texbin
 
 # create data paths
