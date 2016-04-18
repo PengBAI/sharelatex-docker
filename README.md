@@ -6,7 +6,7 @@ ShareLaTeX
 Image on docker hub: [https://hub.docker.com/r/pengbai/docker-sharelatex/](https://hub.docker.com/r/pengbai/docker-sharelatex/)
 
 
-[ShareLaTeX](https://www.sharelatex.com) is an open-source online real-time collaborative LaTeX editor. We run a hosted version at http://www.sharelatex.com, but you can also run your own local version with docker[ShareLaTex image](https://hub.docker.com/r/pengbai/docker-sharelatex/).
+[ShareLaTeX](https://www.sharelatex.com) is an open-source online real-time collaborative LaTeX editor. We can run directely a hosted version, and you can also run your own local version with docker [ShareLaTex image](https://hub.docker.com/r/pengbai/docker-sharelatex/).
 
 Description
 ------------
