@@ -16,10 +16,16 @@ Pull image:
 docker pull pengbai/docker-sharelatex:0.2.0
 ```
 
-Run container ShareLaTex on port 3000, then visit on browser localhost:3000:
+ShareLaTex container run on port 3000, then visit on your browser http://localhost:49161 :
 ```
-docker run -d -p 3000:3000 pengbai/docker-sharelatex:0.2.0
+docker run -d -p 49161:3000 pengbai/docker-sharelatex:0.2.0
 ```
+
+Keep your files on your own, you can volume the /data in container, then you can find your sources in /local-sharelatex-data:
+```
+docker run -d -p 49161:3000 -v /local-sharelatex-data:/data pengbai/docker-sharelatex:0.2.0
+```
+
 
 
 
