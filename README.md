@@ -3,7 +3,7 @@ ShareLaTeX
 
 ShareLaTex on Ubuntu 14
 
-[![](https://badge.imagelayers.io/pengbai/docker-sharelatex:latest.svg)](https://imagelayers.io/?images=pengbai/docker-sharelatex:latest 'Get your own badge on imagelayers.io')
+[![](https://badge.imagelayers.io/pengbai/docker-sharelatex:latest.svg)](https://imagelayers.io/?images=pengbai/docker-sharelatex:0.2.0 'Get your own badge on imagelayers.io')
 
 Image on docker hub: [https://hub.docker.com/r/pengbai/docker-sharelatex/](https://hub.docker.com/r/pengbai/docker-sharelatex/)
 
